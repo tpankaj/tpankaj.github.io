@@ -3,16 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
+You have reached the blog of Tushar Pankaj, a published researcher in deep learning, enthusiast of systems programming and computer architecture, and hobbyist of 35 mm film-based photography.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I'm a third-year undergraduate student in Computer Science at the University of Minnesota, Twin Cities. I used to attend the University of California, Berkeley, as an Electrical Engineering and Computer Science student, but transferred to the University of Minnesota for reasons I will eventually detail on this blog.
