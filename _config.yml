@@ -33,3 +33,9 @@ plugins:
 # to override the default setting.
 exclude:
   - vendor
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
