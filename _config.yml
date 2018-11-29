@@ -2,7 +2,7 @@ title: Tushar Pankaj
 email: tushar.s.pankaj@gmail.com
 description: Originally a blog about my deep learning research. Now a blog about my life.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tspankaj.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tushar_pankaj
 github_username:  tpankaj
 author: Tushar Pankaj
